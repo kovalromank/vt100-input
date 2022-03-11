@@ -1,4 +1,3 @@
 run:
-	@gcc main.c
+	@gcc serial.c main.c
 	@./a.out
-
